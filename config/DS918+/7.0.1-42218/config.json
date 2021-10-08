@@ -1,6 +1,6 @@
 {
   "os": {
-    "id": "ds918+_42218",
+    "id": "ds918p_42218",
     "pat_url": "https://global.download.synology.com/download/DSM/release/7.0.1/42218/DSM_DS918%2B_42218.pat",
     "sha256": "4fc59b0f0adfdd96467376f50919dde1bf5dcec74e53452e626f9cf7bd52a38c"
   },
@@ -113,7 +113,8 @@
     },
     "bootp1_copy": {
       "@@@PAT@@@/GRUB_VER": "GRUB_VER",
-      "@@@COMMON@@@/EFI": "EFI"
+      "@@@COMMON@@@/EFI/boot/SynoBootLoader.conf": "EFI/BOOT/",
+      "@@@COMMON@@@/EFI/boot/SynoBootLoader.efi": "EFI/BOOT/"
     },
     "bootp2_copy": {
       "@@@PAT@@@/GRUB_VER": "GRUB_VER",
