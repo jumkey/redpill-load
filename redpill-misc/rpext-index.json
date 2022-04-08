@@ -4,9 +4,9 @@
   "info": {
     "name": "Misc shell",
     "description": "Misc shell",
-    "author_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc",
-    "packer_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc",
-    "help_url": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc"
+    "author_url": "https://github.com/PeterSuh-Q3/redpill-load/raw/develop/redpill-misc",
+    "packer_url": "https://github.com/PeterSuh-Q3/redpill-load/raw/develop/redpill-misc",
+    "help_url": "https://github.com/PeterSuh-Q3/redpill-load/raw/develop/redpill-misc"
   },
   "releases": {
     "ds3615xs_42218": "https://github.com/jumkey/redpill-load/raw/develop/redpill-misc/recipes/universal.json",
