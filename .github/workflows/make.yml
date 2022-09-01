@@ -12,7 +12,7 @@ on:
         required: true
         default: 'https://sourceforge.net/projects/dsgpl/files/Tool%20Chain/DSM%207.0.0%20Tool%20Chains/Intel%20x86%20Linux%204.4.180%20%28Apollolake%29/apollolake-gcc750_glibc226_x86_64-GPL.txz'
       linux-src:
-        description: 'Linux kernel source URL for repack zImage'
+        description: 'https://github.com/buildroot/buildroot.git'
         required: true
         default: 'https://cdn.kernel.org/pub/linux/kernel/v4.x/linux-4.4.180.tar.xz'
 
